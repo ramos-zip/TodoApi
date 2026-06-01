@@ -4,7 +4,7 @@ namespace TodoApi.Models.DTOs.ComentarioDto
 {
     public class ComentarioCreateDto
     {
-        [Required(ErrorMessage = "Comentario é obrigatorio!")]
-       public string Conteudo {get; set;} = string.Empty;
+        [Required(ErrorMessage = "Comentário é obrigatório!")]
+        public string Conteudo {get; set;} = string.Empty;
     }
 }
