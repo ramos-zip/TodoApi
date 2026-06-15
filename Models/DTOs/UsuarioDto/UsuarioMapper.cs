@@ -1,4 +1,4 @@
-
+using TodoApi.Models.Entities;
 
 namespace TodoApi.Models.DTOs.UsuarioDto
 {
