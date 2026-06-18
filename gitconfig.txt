@@ -1,0 +1,2 @@
+git config --global user.name ramos-zip
+git config --global user.email enzoramos40953@gmail.com

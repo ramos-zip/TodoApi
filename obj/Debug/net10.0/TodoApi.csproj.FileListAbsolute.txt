@@ -159,3 +159,4 @@ C:\Users\etec\Desktop\TodoApi\obj\Debug\net10.0\refint\TodoApi.dll
 C:\Users\etec\Desktop\TodoApi\obj\Debug\net10.0\TodoApi.pdb
 C:\Users\etec\Desktop\TodoApi\obj\Debug\net10.0\TodoApi.genruntimeconfig.cache
 C:\Users\etec\Desktop\TodoApi\obj\Debug\net10.0\ref\TodoApi.dll
+C:\Users\etec\Desktop\TodoApi\bin\Debug\net10.0\BCrypt-Net-Next.dll
